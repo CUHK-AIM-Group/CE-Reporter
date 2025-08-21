@@ -89,7 +89,7 @@ CE-Reporter/
 ├── keyframe_detection/
 │   └── model_weight/               # weights for keyframe detection
 ├── LLaVA/
-│   └── CE-Reporter-llava-v1.5-7b   # LLaVA weights
+│   └── CE-Reporter-llava-1.5-7b   # LLaVA weights
 ├── llama/
 │   └── model_weight/          
 │       └── CE-Reporter-llama-3.1-8b # Llama weights 
