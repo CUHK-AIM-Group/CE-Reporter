@@ -1,0 +1,15 @@
+transformers==4.35.2
+tokenizers==0.15.2
+paddleocr==2.8.1
+opencv-python==4.10.0.84
+ffmpeg-python
+protobuf 
+httpx 
+astor 
+timm==1.0.8 
+decorator 
+opt-einsum==3.3.0 
+albumentations==1.4.10 
+albucore==0.0.13 
+tensorboardX
+
