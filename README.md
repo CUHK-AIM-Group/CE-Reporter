@@ -5,7 +5,7 @@
 
 <!-- ### [arXiv]() -->
 > [Towards Expert-Level Generative AI for Capsule Endoscopy Video-to-Report Generation](https://github.com/CUHK-AIM-Group/CE-Reporter) \
-> [Boyun Zheng](https://scholar.google.com/citations?user=ZveKOXkAAAAJ&hl=zh-CN), [Yu Jiang](https://scholar.google.com/citations?user=P9_bgvEAAAAJ&hl=en), Dejun Fan, [Xinyu Liu](https://xinyuliu-jeffrey.github.io/), [Xiaoqing Guo](https://guo-xiaoqing.github.io/), [Romain Hardy]([https://scholar.google.com/citations?user=zP6fRqcAAAAJ](https://scholar.google.com/citations?user=j7tIdWcAAAAJ&hl=en), [Shengyuan Liu](https://scholar.google.com/citations?user=zP6fRqcAAAAJ), Bin Chen, Mingjie Wang, Jinni Luo, Jin Tao<sup>✉</sup>, Jiancong Hu<sup>✉</sup>, [Lichao Sun](https://lichao-sun.github.io/), [Pranav Rajpurkar]([https://lichao-sun.github.io/](https://pranavrajpurkar.com/)), [Lei Xing](https://profiles.stanford.edu/lei-xing), [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm)<sup>✉</sup>
+> [Boyun Zheng](https://scholar.google.com/citations?user=ZveKOXkAAAAJ&hl=zh-CN), [Yu Jiang](https://scholar.google.com/citations?user=P9_bgvEAAAAJ&hl=en), Dejun Fan, [Xinyu Liu](https://xinyuliu-jeffrey.github.io/), [Xiaoqing Guo](https://guo-xiaoqing.github.io/), [Romain Hardy](https://scholar.google.com/citations?user=j7tIdWcAAAAJ&hl=en), [Shengyuan Liu](https://scholar.google.com/citations?user=zP6fRqcAAAAJ), Bin Chen, Mingjie Wang, Jinni Luo, Jin Tao<sup>✉</sup>, Jiancong Hu<sup>✉</sup>, [Lichao Sun](https://lichao-sun.github.io/), [Pranav Rajpurkar](https://pranavrajpurkar.com/), [Lei Xing](https://profiles.stanford.edu/lei-xing), [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm)<sup>✉</sup>
 
 ![introduction](assets/introduction.jpg)
 
