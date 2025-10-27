@@ -97,7 +97,9 @@ CE-Reporter/
 
 ### Model Weights
 Our model files (three parts) are open-sourced on Hugging Face:
-Note: These model weights are currently hosted privately while our manuscript is under review. We will make them fully public, along with the necessary code to reproduce our results, immediately upon the paper's acceptance.
+
+> **Note:** These model weights are currently hosted privately while our manuscript is under review. We will make them fully public, along with the necessary code to reproduce our results, immediately upon the paper's acceptance.
+
 | Component | Hugging Face Link |
 |-----------|-------------------|
 | Keyframe Detection Model | https://huggingface.co/Byzzz0301/CE-Reporter-kfd |
